@@ -11,3 +11,6 @@ Anugrah11299/Anugrah11299 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 @Anugrah11299 I'm video rendom
+-git remote add origin https://github.com/Anugrah11299/XYANZ.git
+git branch -M main
+git push -u origin main
